@@ -3,6 +3,8 @@ VectorAddition
 
 A code example from a UPEI Engn 132 assignment for a class presentation.
 
+To run: navigate to the executable file at ./Debug/VectorAddition.exe
+
 From the assignment:
 Problem 4.1
 
